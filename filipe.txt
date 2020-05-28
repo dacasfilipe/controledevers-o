@@ -1,2 +1,6 @@
 Meu nome é filipe da cas
+<<<<<<< HEAD
 professor
+=======
+teste de controle de versão.
+>>>>>>> 09c7b9c4dc1ea928ef3d08de837b9761dd2f9736
